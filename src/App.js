@@ -1,4 +1,6 @@
-function App() {
+import React from "react";
+
+const App = () => {
   return (
     <div>
       <header>
@@ -6,6 +8,6 @@ function App() {
       </header>
     </div>
   );
-}
+};
 
 export default App;
